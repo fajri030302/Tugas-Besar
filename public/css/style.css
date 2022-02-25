@@ -1,0 +1,87 @@
+@media (min-width: 400px) {
+    .esemele{
+        margin-top: 70px;
+       
+    }
+    .adubiso1{
+        font-size: 37px;
+    }
+    .adubiso2{
+        font-size: 20px;
+    }
+ }
+
+ 
+
+.kotak{
+
+ 
+background: #FFFFFF;
+border-radius: 18px;
+}
+
+.fz{
+    font-size: 20px;
+    color: white;
+    
+}
+
+.cardd1{
+
+    position: absolute;
+width: 313px;
+height: 181px;
+left: 104px;
+top: 977px;
+
+background: #C4C4C4;
+border-radius: 15px;
+}
+
+@media (min-width: 768px) {
+    .esemele{
+        margin-top: 90px;
+       
+    }
+    .adubiso1{
+        font-size: 40px;
+    }
+    .adubiso2{
+        font-size: 22px;
+    }
+
+ }
+  
+/* Medium devices (desktops, 992px and up) */
+@media (min-width: 992px) { 
+    .esemele{
+        
+        margin-top: 130px;
+    }
+    .adubiso1{
+        font-size: 48px;
+    }
+    .adubiso2{
+        font-size: 24px;
+    }
+}
+  
+/* Large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) { 
+    .esemele{
+        
+        margin-top: 150px;
+    }
+    .adubiso1{
+        font-size: 48px;
+    }
+    .adubiso2{
+        font-size: 24px;
+    }
+}
+.btn:hover{
+    background-color: white;
+}
+#page-top{
+    background-color: #1A1F21;
+}
